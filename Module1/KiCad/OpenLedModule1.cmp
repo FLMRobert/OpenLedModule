@@ -1,0 +1,51 @@
+Cmp-Mod V01 Created by PcbNew   date = 04.03.2017 18:39:06
+
+BeginCmp
+TimeStamp = 58B924BB
+Path = /58B91F61
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = blinkgestalten:LED_NICHIA;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B924C7
+Path = /58B921A1
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = blinkgestalten:LED_NICHIA;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B924D3
+Path = /58B921E6
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = blinkgestalten:LED_NICHIA;
+EndCmp
+
+BeginCmp
+TimeStamp = 58B924DF
+Path = /58B92239
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = blinkgestalten:LED_NICHIA;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BAF305
+Path = /58BAECAB
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58BAF33C
+Path = /58BAFAF6
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02_Pitch2.54mm;
+EndCmp
+
+EndListe
