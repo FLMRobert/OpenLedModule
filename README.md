@@ -42,8 +42,9 @@ With OpenLedModule, you can easily build your own lighting fixture:
 ## Motivation
 
 You can buy cheap LED lamps in every hardware store, but many of the lamps you get there are just cheap crap.
-Commercial LED lamps tend to break down after a short time and in many cases you have throw away the whole lamp
-just because only one part of it is broken.
+
+Commercial LED lamps tend to break down after a short time and in many cases you have to throw away the whole lamp
+just because only one little part of it is broken.
 
 The solution for this problem is: **simply build your own LED lamp!**
 If a part of your self made lamp breaks down: just fix that part.
