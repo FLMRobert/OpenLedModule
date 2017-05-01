@@ -1,4 +1,4 @@
-update=16.04.2017 17:13:33
+update=29/04/2017 11:56:43
 version=1
 last_client=kicad
 [cvpcb]
@@ -23,6 +23,8 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=Library/OpenLed.pretty
@@ -56,5 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=Library/OpenLedModule

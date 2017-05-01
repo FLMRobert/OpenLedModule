@@ -1,36 +1,4 @@
-Cmp-Mod V01 Created by PcbNew   date = 04.03.2017 18:39:06
-
-BeginCmp
-TimeStamp = 58B924BB
-Path = /58B91F61
-Reference = D1;
-ValeurCmp = LED;
-IdModule  = blinkgestalten:LED_NICHIA;
-EndCmp
-
-BeginCmp
-TimeStamp = 58B924C7
-Path = /58B921A1
-Reference = D2;
-ValeurCmp = LED;
-IdModule  = blinkgestalten:LED_NICHIA;
-EndCmp
-
-BeginCmp
-TimeStamp = 58B924D3
-Path = /58B921E6
-Reference = D3;
-ValeurCmp = LED;
-IdModule  = blinkgestalten:LED_NICHIA;
-EndCmp
-
-BeginCmp
-TimeStamp = 58B924DF
-Path = /58B92239
-Reference = D4;
-ValeurCmp = LED;
-IdModule  = blinkgestalten:LED_NICHIA;
-EndCmp
+Cmp-Mod V01 Created by PcbNew   date = 29/04/2017 11:57:08
 
 BeginCmp
 TimeStamp = 58BAF305
@@ -46,6 +14,54 @@ Path = /58BAFAF6
 Reference = P2;
 ValeurCmp = CONN_01X02;
 IdModule  = Pin_Headers:Pin_Header_Angled_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F17A82
+Path = /58F0AA57
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F17A93
+Path = /58F0A442
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F17962
+Path = /58B92239
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = OpenLed:LED_OsramDURIS_E5_JDSTS2EM;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F178E1
+Path = /58B91F61
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = OpenLed:LED_OsramDURIS_E5_JDSTS2EM;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F1790C
+Path = /58B921A1
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = OpenLed:LED_OsramDURIS_E5_JDSTS2EM;
+EndCmp
+
+BeginCmp
+TimeStamp = 58F17937
+Path = /58B921E6
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = OpenLed:LED_OsramDURIS_E5_JDSTS2EM;
 EndCmp
 
 EndListe
