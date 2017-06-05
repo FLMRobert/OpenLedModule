@@ -4,7 +4,7 @@
 
 ![Module 1 Schematic](./Images/OpenLedModule01_Schematic.png)
 ![Module 1 PCB](./Images/OpenLedModule01_Prototype02.jpg)
-![Module 1 Assembled](./Images/OpenLedModule01_PrototypeBestueckt02.png)
+![Module 1 Assembled](./Images/OpenLedModule01_PrototypeBestueckt02.jpg)
 
 The idea behind Module 1 was to use it for workshops where you can learn how to build your own LED lamp
 by using a reflow soldering oven. So Module 1 is a good starting point if you want to build your first LED lamp.
