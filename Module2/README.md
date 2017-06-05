@@ -2,7 +2,7 @@
 
 ## Overview 
 
-![Module 2 Schematic](./Images/OpenLedModule01_Schematic)
+![Module 2 Schematic](./Images/OpenLedModule01_Schematic.png)
 
 The idea behind Module 2 was to use it for standard LED lamp projects.
 The module can be used for creating a LED lamp that replaces one 60 W light bulb 
