@@ -6,7 +6,7 @@
 ![Module 2 PCB](./Images/OpenLedModule02_Prototype01.jpg)
 ![Module 2 Assembled](./Images/OpenLedModule02_PrototypeBestueckt01.jpg)
 
-The idea behind Module 2 was to use it for standard LED lamp projects.
+The idea for Module 2 was to use it for standard LED lamp projects.
 The module can be used for creating a LED lamp that replaces one 60 W light bulb 
 (i.e. a "standard ceiling light") or to replace three 60 W light bulbs
 (i.e. the "standard living room ceiling light").
