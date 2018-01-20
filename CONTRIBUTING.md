@@ -6,15 +6,15 @@ This guide gives you some information on how to contribute to the OpenLedModule 
 
 The OpenLedModule project has many different aspects. 
 The most obvious aspects are LED module technology and design of LED lamps. 
-But this does not mean that only electrical engineers or LED lighting experts can contribute to this project.
+But this does NOT mean that only electrical engineers or LED lighting experts might contribute to this project.
 
-The OpenLedModule project has also the important aspect of providing everyone with LED lighting technology,
-no matter how deep your knowledge about LED lighting is.
+The OpenLedModule project has also the important goal of providing everyone with LED lighting technology,
+no matter how deep their knowledge about LED lighting might be.
 
 So there are three main areas where you can contribute to this project:
-- Improving OpenLedModule technology: improve the existing designs and develop new module/lamp designs
-- Using OpenLedModule technology: build OpenLedModule lamps, report design bugs or feature requests
-- Spreading the news: talk about OpenLedModule, show it to your friends, or even hold an OpenLedModule workshop 
+- *Improving OpenLedModule technology and design:* improve the existing module/lamp designs and develop new designs
+- *Using OpenLedModule technology:* build OpenLedModule lamps and report design bugs or feature requests
+- *Spreading the news:* talk about OpenLedModule, show it to your friends, help with documentation, or even hold an OpenLedModule workshop 
 
 Here are more details on how to contribute:
 
@@ -30,7 +30,7 @@ Submit new module designs e.g. for different LED footprints or for modules with 
 
 LED lighting experts might contribute by reviewing and improving the current OpenLedModule and lamp designs.
 
-How to contribute: submit bugs if you find issues with the current module design.
+*How to contribute:* submit bugs if you find issues with the current module design.
 Submit new module designs or lamp designs e.g. for improved light characteristics 
 or better thermal management.
  
@@ -38,17 +38,20 @@ or better thermal management.
 
 Product designers might contribute by reviewing and improving the current lamp designs.
 
-How to contribute: fork and improve current lamp designs. Come up with more beautyful or more functional lamp designs. 
-Come up with completely new lamp designs. Submit requirements for not yet existing LED modules that should be created by the 
-OpenLedModule community.
+*How to contribute:* 
+- Fork and improve current lamp designs
+- Come up with more beautyful/functional lamp designs
+- Come up with completely new lamp designs
+- Submit requirements for not yet existing LED modules that should be created by the OpenLedModule community
 
 
 ### Technical Writers
 
 Technical Writers might contribute by reviewing/improving the OpenLedModule documentation.
 
-How to contribute: submit bugs if you find documentation issues. 
-Write new documentation based on draft documents.
+*How to contribute:* 
+- Submit bugs if you find documentation issues
+- Write new documentation based on draft documents
 
 ### Makerspaces
 
@@ -56,11 +59,9 @@ Makerspaces might contribute by offering workshops for building LED lamps based 
 Makerspaces might also contribute by being showrooms for OpenLedModule lamps: simply mount one or 
 more OpenLedModule lamps in your workshop and show them to interested people.
 
-How to contribute: 
-Build your own OpenLedModule lamp to get a feeling whether that's possible in your Makerspace. 
-If it's possible: run a test workshop and check whether the participants were happy. 
-If you successfully ran the workshop: let us know, then we will add your Makerspace
-to our list of supporting Makerspaces!
+*How to contribute:* Build your own OpenLedModule lamp to get a feeling whether that's possible in your Makerspace. 
+If it's possible: run a test workshop and check whether the participants were happy with the workshop. 
+If you successfully ran the workshop: let us know, then we will add your Makerspace to our list of supporting Makerspaces!
 
 
 ### Makers
@@ -68,6 +69,5 @@ to our list of supporting Makerspaces!
 Makers might contribute by building their own OpenLedModule lamp and letting us know about any issues
 with the design files or documentation.
 
-How to contribute: 
-Submit issues or feature requests.
+*How to contribute:* Submit issues or feature requests.
 
