@@ -21,8 +21,8 @@ Use three of them. Really. It's true.
 
 ## Parts
 
-* **LED:** 6 x Osram Duris E5 GW JDSTS2.EM
-* **Resistor:** 6 x 14 Ohm
+* **LED:** 4 x Osram Duris E5 GW JDSTS2.EM
+* **Resistor:** 2 x 14 Ohm
 
 ## Electric Characteristics
 
