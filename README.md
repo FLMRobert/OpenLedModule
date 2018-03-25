@@ -21,7 +21,7 @@ With OpenLedModule, you can easily build your own lighting fixture:
 
 4. **Order LEDs and resistors** that are required for the LED module
 
-   Example: for Module 1, you need to order __six OSRAM Duris E5 LEDs__ and __six 14 Ohm resistors__   
+   Example: for three Module 1, you need to order __twelve OSRAM Duris E5 LEDs__ and __six 14 Ohm resistors__   
 
 5. **Solder your LED modules**  
 
