@@ -61,7 +61,6 @@ If a part of your self made lamp breaks down: just fix that part.
 
 * If one LED breaks: fix the LED. 
 * If the whole LED module breaks: replace it.
-* If a circuit path breaks: fix it.
 * If the power supply breaks: replace it.
 
 It's easy - believe me. 
