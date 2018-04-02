@@ -1,43 +1,53 @@
 # OpenLedModule
 OpenLedModule - an Open Hardware LED module project
 
-## Background
+The OpenLedModule project provides Open Hardware LED modules for everyone! 
 
-The goal of the OpenLedModule project is to provide Open Hardware LED modules for everyone.
+With OpenLedModule, you can easily build your own lighting fixture - just follow these steps:
 
-With OpenLedModule, you can easily build your own lighting fixture:
+***
 
-1. **Choose a basic LED lamp model** that fits to your needs
+**Step 1**: Choose a basic LED lamp model that fits your needs
 
-   Example: choose the battery powered __HandLamp__
+_Example_: choose [40FLATLED](https://github.com/FLMRobert/OpenLedModule/wiki/Lamps-40FLATLED) - a ceiling lamp that is as bright as two 60W light bulbs.
 
-2. **Check which LED Module is required** for your lamp model
+![Choose Lamp Model](https://github.com/FLMRobert/OpenLedModule/blob/master/Wiki/Images/LampChoice.png)
 
-   Example: for the HandLamp, __Module 1__ is required
+***
 
-3. **Order the required number of LED Modules** from a PCB (circuit board) manufacturer of your choice 
+**Step 2**: Check which LED Module is required to build the lamp model
 
-   Example: order __three Module 1__ PCBs
+_Example_: for lamp 40FLATLED, [Module 2](https://github.com/FLMRobert/OpenLedModule/wiki/Modules---Module-2) is required
 
-4. **Order LEDs and resistors** that are required for the LED module
+***
 
-   Example: for three Module 1, you need to order __twelve OSRAM Duris E5 LEDs__ and __six 14 Ohm resistors__   
+**Step 3**: Order the required number of LED Modules from a PCB (circuit board) manufacturer of your choice
 
-5. **Solder your LED modules**  
+_Example_: [order](https://github.com/FLMRobert/OpenLedModule/wiki/Ordering-Overview) five Module 2 PCBs to build lamp 40FLATLED.
 
-   If you don't have reflow soldering equipment: go to a makerspace of your choice and solder it there.
-   
-   Most makerspaces own a temperature-controlle "pizza oven" for reflow soldering.
-   
-   With this oven, you can finalize your OpenLedModules.
+![Check Lamp Module](https://github.com/FLMRobert/OpenLedModule/blob/master/Wiki/Images/40FLATLEDOpen.png)
 
-6. **Assemble your LED lamp**
+***
 
-   Get all the material that is listed for the lamp module of your choice.
-   
-   Example: for the HandLamp you need an aluminium profile, a number of screws and a 3D printed hand grip.
-   
-   Feel free to change the lamp design by creating a fork of the lamp models that are presented here.
+**Step 4**: Order the parts (LEDs, resistors and pin headers) that are required for assembling the LED module
+
+_Example_: the [Data Sheet of Module 2](https://github.com/FLMRobert/OpenLedModule/wiki/DataSheets-Modules-Module-2) lists all parts that are required for module assembly. For Module 2 you need to order eight [OSRAM Duris E5](https://github.com/FLMRobert/OpenLedModule/wiki/LEDs-OSRAM-Duris-E5) LEDs and one 30 Ohm resistor. This totals to 40 LEDs and five resistors for the five modules of lamp 40FLATLED. In addition to that you need nine pin headers that are required for connecting the module connector cables. 
+
+***
+
+**Step 5**: Solder your LED modules  
+If you don't have reflow soldering equipment: go to a makerspace of your choice and solder it there.
+Many makerspaces own a temperature-controlle "pizza oven" for reflow soldering.
+With this oven, you can finalize your OpenLedModules.
+
+***
+
+**Step 6**: Assemble your LED lamp  
+Get all the material that is required for your lamp model.
+
+_Example_: for lamp 40FLATLED you need a power source (constant power source), an IKEA picture frame, some lasercut parts and other mounting material and cables. See [the data sheet](https://github.com/FLMRobert/OpenLedModule/wiki/DataSheets-Lamps-40FLATLED) of lamp 40FLATLED for the complete bill of materials.
+
+***
 
 ## Motivation
 
